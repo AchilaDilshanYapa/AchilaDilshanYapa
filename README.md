@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Achila Dilshan Yapa</h1>
+<h1 align="center">Hi 👋, I'm Achila Dilshan Yapa<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">I’m currently pursuing a degree in Software Engineering at Saegis Campus, Nugegoda,Sri Lanka, offered by Canterbury Christ Church University,UK.</h3>
 
 - 🌱 I’m currently learning **BSc (Hons) in Software Engineering**
