@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Achila Dilshan Yapa</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">I’m currently pursuing a degree in Software Engineering at Saegis Campus, Nugegoda,Sri Lanka, offered by Canterbury Christ Church University,UK.</h3>
 
 - 🌱 I’m currently learning **BSc (Hons) in Software Engineering**
 
