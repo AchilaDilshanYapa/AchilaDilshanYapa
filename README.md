@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Achila Dilshan Yapa</h1>
-<h3 align="center">I’m currently pursuing a degree in Software Engineering at Saegis Campus, Nugegoda,Sri Lanka, offered by Canterbury Christ Church University,UK.</h3>
+<h3 align="center">👨‍🎓 Undergraduate Software Engineering student</h3>
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
