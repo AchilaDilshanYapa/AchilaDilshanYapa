@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **BSc (Hons) in Software Engineering**
 
+- 🔭 Current Focus: Exploring AI video generation and contributing to innovative software projects.
+
 - 📫 How to reach me **achiladilshanyapa@gmail.com**
 
 - ⚡ Fun fact **Cell me as AD**
