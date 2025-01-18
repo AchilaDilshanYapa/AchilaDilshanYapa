@@ -7,7 +7,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
-- 🌱 I’m currently learning **BSc (Hons) in Software Engineering**
+- 🌱 I’m currently learning **BSc (Hons) in Software Engineering** at Saegis Campus, Nugegoda,Sri Lanka, offered by Canterbury Christ Church University,UK.
 
 - 🔭 Current Focus: Exploring AI video generation and contributing to innovative software projects.
 
