@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **achiladilshanyapa@gmail.com**
 
-- ⚡ Fun fact **Cell me as AD**
+- ⚡ Fun fact: Beyond my professional interests, I’m an avid traveler, musician, swimmer, and a devoted dog lover. 🐶🎶🌍🏊‍♂️*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
