@@ -11,6 +11,8 @@
 
 - 🔭 Current Focus: Exploring AI video generation and contributing to innovative software projects.
 
+- 💡 Passionate About: Combining creativity and technology to build impactful AI solutions.
+
 - 📫 How to reach me **achiladilshanyapa@gmail.com**
 
 - ⚡ Fun fact: Beyond my professional interests, I’m an avid traveler, musician, swimmer, and a devoted dog lover. 🐶🎶🌍🏊‍♂️*
