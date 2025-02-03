@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/achilayapa" target="blank"><img align="center" src[="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://www.flaticon.com/free-icon/twitter_5968830?term=x&page=1&position=5&origin=search&related_id=5968830)" alt="achilayapa" height="30" width="40" /></a>
+<a href="https://twitter.com/achilayapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="achilayapa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/achilayapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achilayapa" height="30" width="40" /></a>
 <a href="https://fb.com/achila.yapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="achila.yapa" height="30" width="40" /></a>
 <a href="https://instagram.com/_.ad_king._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.ad_king._" height="30" width="40" /></a>
