@@ -23,6 +23,7 @@
 <a href="https://linkedin.com/in/achilayapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achilayapa" height="30" width="40" /></a>
 <a href="https://fb.com/achila.yapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="achila.yapa" height="30" width="40" /></a>
 <a href="https://instagram.com/_.ad_king._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.ad_king._" height="30" width="40" /></a>
+ <a href="#" target="blank"><img align="center" src="https://github.com/AchilaDilshanYapa/MWLogo/blob/main/icone/WhatsApp%20Image%202025-01-08%20at%2017.42.59_68a2b552.jpg" alt="_.ad_king._" height="30" width="40" /></a>
 </p>
 
 
